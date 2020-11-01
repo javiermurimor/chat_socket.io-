@@ -1,0 +1,26 @@
+{
+  "name": "chat_socket.io-",
+  "version": "1.0.0",
+  "description": "chat con socket.io\r integrante: alvaro murillo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start_dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AMurilloMora/chat_socket.io-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AMurilloMora/chat_socket.io-/issues"
+  },
+  "homepage": "https://github.com/AMurilloMora/chat_socket.io-#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6",
+    "socket.io": "^2.3.0"
+  }
+}
